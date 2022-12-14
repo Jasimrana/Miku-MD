@@ -12,15 +12,15 @@ global.OwnerNumber = ['9507668967']
 global.ownertag = ['9507668967']
 global.BotName = "KUNAL"
 global.packname = "KUNAL bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
+global.author = "By: KUNAL"
+global.OwnerName = "KUNAL"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
 
 
 
-global.prefa = ['-'] // Prefix ---  change it to anythong you want except @//
+global.prefa = ['.'] // Prefix ---  change it to anythong you want except @//
 
 
 global.location = "West Bengal, India"
